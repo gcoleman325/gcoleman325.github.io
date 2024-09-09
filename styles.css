@@ -4,13 +4,3 @@ body {
     color: #f5f5f5;
 }
 
-.btn-outline-info {
-    color: #ff6347; 
-    border-color: #ff6347;
-}
-
-.btn-outline-info:hover {
-    background-color: #ff6347; 
-    color: white; 
-}
-
